@@ -1,1 +1,1 @@
-console.log("document.querySelector("#colorPicker"));");
+window.alert("document.querySelector("#colorPicker"));");
