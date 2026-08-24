@@ -1,1 +1,1 @@
-window.alert("hello");
+window.alert(document.querySelector('#colorPicker'));
