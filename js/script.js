@@ -1,1 +1,2 @@
-window.alert(document.querySelector('#colorPicker').value);
+console.log(document.querySelector('#colorPicker').value);
+document.querySelector('#colorText').testContent = 'Color Code:';
